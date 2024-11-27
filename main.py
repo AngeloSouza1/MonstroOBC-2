@@ -12,7 +12,7 @@ class MonstroGUI:
         self.carregar_widgets()
 
     def configurar_janela(self):
-        self.root.title("Criador de Monstros 🐉")
+        self.root.title(" ")
         largura_janela = 1075
         altura_janela = 614
         largura_tela = self.root.winfo_screenwidth()
